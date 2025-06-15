@@ -1,3 +1,37 @@
+# 🅰️ Angular 17 Articles – Code Samples and Demos
+
+Welcome to the official companion repository for my article series on **Angular 17**, published on [C# Corner](https://www.c-sharpcorner.com/). This repo includes hands-on code examples, demos, and best practices covering Angular 17's most exciting features.
+
+> ✨ Stay tuned as I continue exploring Angular 17 and beyond!
+
+---
+
+## 📚 Article Series Index
+
+| # | Article Title | Code Folder |
+|---|-----------------------------|-----------------------------|
+| 1 | [Getting Started with Angular 17](https://www.c-sharpcorner.com/article/angular-17-getting-started/) | [`01-getting-started`](./projects/01-getting-started/) |
+<!-- | 2 | [Standalone APIs](https://www.c-sharpcorner.com/article/angular-17-standalone-apis/) | [`02-standalone-apis`](./projects/02-standalone-apis/) | -->
+
+---
+
+## 🧰 Setup Instructions
+
+### ✅ Prerequisites
+
+- **Node.js**: v18 or v20 (latest LTS recommended)
+- **Angular CLI**: v17+
+- **Package Manager**: npm
+
+### ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/angular-17-articles.git
+cd angular-17-articles
+npm install
+```
+
+
 # Angular17Articles
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
