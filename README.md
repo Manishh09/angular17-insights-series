@@ -19,7 +19,7 @@ Welcome to the official companion repository for my article series on **"Modern 
 
 | # | Article Title | Code Folder |
 |---|-----------------------------|-----------------------------|
-| 1 | [Modern Angular Development: Angular 17 Revolution](https://www.c-sharpcorner.com/article/angular-17-getting-started/) | [`01-getting-started`](./projects/01-getting-started/) |
+| 1 | [Modern Angular Development: Angular 17 Revolution](https://www.c-sharpcorner.com/article/modern-angular-development-angular-17-revolution/) | [`01-getting-started`](./projects/01-getting-started/) |
 <!-- | 2 | [Standalone APIs](https://www.c-sharpcorner.com/article/angular-17-standalone-apis/) | [`02-standalone-apis`](./projects/02-standalone-apis/) | -->
 
 ---
@@ -37,10 +37,10 @@ Welcome to the official companion repository for my article series on **"Modern 
 ```bash
 
 # Clone the repository
-git clone https://github.com/your-username/angular-17-articles.git
+git clone https://github.com/your-username/angular17-insights-series.git
 
 # Navigate to the project
-cd angular-17-articles
+cd angular17-insights-series
 
 # Install dependencies
 npm install
@@ -77,7 +77,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/cli) page.
 
 
 ## 🤝 Contributing
@@ -100,7 +100,7 @@ We welcome contributions! This project serves as a learning resource for the Ang
 
 ## 📞 Connect & Learn More
 
-- **📖 Read the full article**: [Modern Angular Development: The Angular 17 Revolution](https://www.c-sharpcorner.com/article/angular-17-getting-started/)
+- **📖 Read the full article**: [Modern Angular Development: The Angular 17 Revolution](https://www.c-sharpcorner.com/article/modern-angular-development-angular-17-revolution)
 - **👨‍💻 Follow me on C# Corner**: [Manish Boge](https://www.c-sharpcorner.com/members/manish-boge2)
 - **💼 LinkedIn**: [Manish Boge](https://www.linkedin.com/in/manishboge)
 
