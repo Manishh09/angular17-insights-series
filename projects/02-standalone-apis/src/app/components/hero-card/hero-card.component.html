@@ -1,0 +1,5 @@
+<!-- Hero Card Component HTML -->
+<div class="hero-card" *ngIf="hero" appClickLogger>
+    <h3 class="hero-name">Name: {{ hero.name | capitalize }}</h3>
+    <p class="hero-power">Power: {{ hero.power }}</p>
+</div>

@@ -1,0 +1,9 @@
+<section class="hero-list-main-container" aria-labelledby="hero-list-heading">
+    <h2 id="hero-list-heading">Hero List</h2>
+    
+    <div *ngIf="heroes.length" class="hero-card-container">
+        <div *ngFor="let hero of heroes" class="hero-card">
+            <app-hero-card [hero]="hero"></app-hero-card>
+        </div>
+    </div>
+</section>
