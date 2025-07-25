@@ -101,7 +101,7 @@ We welcome contributions! This project serves as a learning resource for the Ang
 ## 📞 Connect & Learn More
 
 - **📖 Read the full article**: [Modern Angular Development: The Angular 17 Revolution](https://www.c-sharpcorner.com/article/modern-angular-development-angular-17-revolution)
-- **👨‍💻 Follow me on C# Corner**: [Manish Boge](https://www.c-sharpcorner.com/members/manish-boge2)
+- **👨‍💻 Follow me on Medium**: [Manish Boge](https://medium.com/@manishboge)
 - **💼 LinkedIn**: [Manish Boge](https://www.linkedin.com/in/manishboge)
 
 ## 📄 License
