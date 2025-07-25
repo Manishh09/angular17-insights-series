@@ -6,6 +6,7 @@
     "start": "ng serve",
     "start:01-getting-started": "ng serve 01-getting-started",
     "start:02-standalone-apis": "ng serve 02-standalone-apis",
+    "start:03-functional-apis": "ng serve 03-functional-apis",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
