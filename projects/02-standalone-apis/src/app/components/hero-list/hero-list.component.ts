@@ -2,7 +2,7 @@ import { NgFor, NgIf } from '@angular/common';
 import { Component, inject, OnInit } from '@angular/core';
 import { CapitalizePipe } from '../../pipes/capitalize.pipe';
 import { HeroCardComponent } from "../hero-card/hero-card.component";
-import { HeroService } from '../../../../services/hero.service';
+import { HeroService } from '../../services/hero.service';
 
 @Component({
   selector: 'app-hero-list',
